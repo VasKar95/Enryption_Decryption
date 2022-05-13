@@ -1,4 +1,9 @@
 public class EncryptionDecryption {
+    /**This is a program which takes as string element, it encrypts it with a key value and ascii number.After the encryption, decrypts the message
+     * via @decryption method.
+     *
+     * @author Karamanis Vasileios
+     * */
     public static void main(String[] args) {
         final int key = 1;
         String text = "M#";
